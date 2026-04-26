@@ -1,0 +1,11 @@
+torch
+torchvision
+yfinance
+pandas
+numpy
+matplotlib
+scikit-learn
+ta
+jupyter
+ipykernel
+mplfinance
