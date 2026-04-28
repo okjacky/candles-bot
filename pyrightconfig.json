@@ -1,0 +1,11 @@
+{
+  "pythonPath": "/home/jack/Dev/candles-bot/venv/bin/python3",
+  "extraPaths": [
+    "/home/jack/Dev/candles-bot/scripts"
+  ],
+  "venvPath": "/home/jack/Dev/candles-bot",
+  "venv": "venv",
+  "reportPrivateImportUsage": "none",
+  "reportMissingModuleSource": "none",
+  "reportAttributeAccessIssue": "none"
+}
